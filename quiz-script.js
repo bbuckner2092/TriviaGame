@@ -1,8 +1,4 @@
-// Lion King Trivia Game
-// start document.ready
-// Global variables
-	// 30 second timer, Array of Questions, Answers, Start Game
-	// Contains the current Question that the player is on
+// Contains the current Question that the player is on
 var currentQuestion = 0;
 // Initial score will start off at 0
 var score = 0;
